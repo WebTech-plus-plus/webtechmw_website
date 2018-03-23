@@ -1,8 +1,9 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
 baseURL = "https://webtechmw.netlify.com/"
-languageCode = "en-AU"
+languageCode = "en-us"
 title = "WebTech Mw"
+publishDir = "public"
 
 # Metadata
 [params]
